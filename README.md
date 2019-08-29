@@ -15,7 +15,7 @@
 
 # 照片视频资料
 ![default_pay_option.PNG](default_pay_option.PNG)  
-视频地址 [video.mp4](video.mp4)
+视频地址 [video.mp4](https://raw.githubusercontent.com/ramwin/accuse-QQ/master/video.mp4)
 
 
 # 经过
