@@ -18,6 +18,12 @@
 视频地址 [video.mp4](https://raw.githubusercontent.com/ramwin/accuse-QQ/master/video.mp4)
 
 
-# 经过
+# 寻求的投诉渠道
+
+## QQ软件内部
 1. 先在QQ里面帮助，关于里面找，都没找到客服。最后只能在反馈里面提交了一个反馈。
-2. 访问 [http://show.s.315.100ec.cn/](http://show.s.315.100ec.cn/) 投诉
+
+## 315.100ec.cn
+1. 访问 [http://show.s.315.100ec.cn/](http://show.s.315.100ec.cn/) 提交投诉
+2. 2019-08-29 18:13 使用手机号登录进去后，投诉的列表竟然为空.
+![投诉为空](./投诉为空.png)
